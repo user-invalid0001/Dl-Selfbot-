@@ -1,0 +1,11 @@
+{
+    "token": PROCESS TOKEN HERE, 
+    "password": "Ronit&123",
+    "prefix": "x",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/RonitOP",
+    "tts_language": "en"
+}
